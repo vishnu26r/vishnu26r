@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VISHNUVEL R</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer from Tamil Nadu</h3>
 
-- 🌱 I’m currently learning **Frontend development, Oops concept ,Embedded C**
+- 🌱 I’m currently learning ** AUTOSAR ,Embedded System,Oops concept ,Frontend development,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnu26r](https://github.com/vishnu26r)
 
