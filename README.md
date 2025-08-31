@@ -7,9 +7,11 @@
 
 <img width="400" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 
-- 🌱 I’m currently learning **AUTOSAR, Embedded System, OOPs concept, Frontend development**
-- 👨‍💻 All of my projects are available at [GitHub - vishnu26r](https://github.com/vishnu26r)
+- 🌱 I’m currently learning **AUTOSAR, Embedded System, OOPs concept, Frontend development**  
+- 👨‍💻 All of my projects are available at [GitHub - vishnu26r](https://github.com/vishnu26r)  
 - 📫 How to reach me **vishnuvel26.r@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +19,8 @@
 <a href="https://www.codechef.com/users/vel_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vel_26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishnuvel_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuvel_26" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,6 +42,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu26r&show_icons=true&locale=en&layout=compact" alt="vishnu26r" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu26r&show_icons=true&locale=en" alt="vishnu26r" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu26r&show_icons=true&locale=en&layout=compact" alt="vishnu26r" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu26r&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="vishnu26r" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu26r" alt="vishnu26r" />
+</p>
