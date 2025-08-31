@@ -8,7 +8,7 @@
 <img width="300" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 
 - 🌱 I’m currently learning **AUTOSAR, Embedded Systems, OOPs concepts, Front-end development**
-- 👨‍💻 Connect with me : [in - vishnuvel R](https://www.linkedin.com/in/vishnuvelr/)
+- 👨‍💻 Connect with me : [in - Vishnuvel R](https://www.linkedin.com/in/vishnuvelr/)
 - 📫 How to reach me: **vishnuvel26.r@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
