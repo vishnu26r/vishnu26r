@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFB3&center=true&vCenter=true&width=940&lines=Hey+There!+👋+I'm+Vishnuvel+R;Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;AUTOSAR+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
+<h1 align="center">Hi 👋, I'm Vishnuvel R</h1>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems Developer | AUTOSAR Enthusiast</h3>
 
 
 ---
