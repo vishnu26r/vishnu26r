@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnuvel R</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems Developer | AUTOSAR Enthusiast</h3>
+<h3 align="center"> 🎓 Final year Student-CIT'26 |Coding  Enthusiast| Aspiring Embedded & AUTOSAR </h3>
 
 
 ---
@@ -10,7 +10,7 @@
 const vishnuvel = {
     location: "Tamil Nadu, India",
     education: "Electronics & Communication Engineering",
-    currentFocus: ["AUTOSAR", "Embedded Systems", "Full Stack Development"],
+    currentFocus: ["Apllication Developer","AUTOSAR", "Embedded Systems",],
     interests: ["Automotive Software", "IoT", "Web Development"],
     lookingFor: "Opportunities in Embedded Systems & Software Development",
     funFact: "I turn hardware and software into solutions! ⚡"
@@ -20,13 +20,10 @@ const vishnuvel = {
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 💡 Current Focus
-- 🔧 Diving deep into **AUTOSAR Architecture**
-- 🎯 Mastering **Embedded C/C++ & Real-Time Systems**
-- 🌐 Building modern web applications with **React & MERN Stack**
 - 📚 Strengthening **Object-Oriented Programming** principles
 - 🚗 Exploring **Automotive Software Development**
-
-### 🎯 2025 Goals
+- 🔧 Diving deep into **AUTOSAR Architecture**
+### 🎯 Goals
 - 🏆 Contribute to open-source embedded systems projects
 - 📝 Share knowledge through technical blogs
 - 🚀 Land a role in Automotive/Embedded Systems domain
@@ -38,10 +35,8 @@ const vishnuvel = {
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 ### 🔧 Embedded Systems & Tools
@@ -50,13 +45,11 @@ const vishnuvel = {
   <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
   <img src="https://img.shields.io/badge/AUTOSAR-009FE3?style=for-the-badge&logo=automotive&logoColor=white" alt="AUTOSAR"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
 ### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -88,14 +81,6 @@ const vishnuvel = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnu26r&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
